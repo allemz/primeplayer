@@ -7,21 +7,20 @@
 
 ## 🔹 Aktif Özellikler  
 - ✅ **AdminLTE admin paneli**  
-- ✅ **PlayerJS player scripti**  
-- ✅ **Birden çok player skini ile görünüm özgürlüğü**  
+- ~~✅ PlayerJS player scripti~~  Bunun yerine Hls.js tabanlı kendi playerimi yaptım.
+- ✅ ~~Birden çok player skini ile görünüm özgürlüğü~~ Hem PlayerJS ye özgüydü hemde tüm özellikleri kendi playerimde topladığımdan buna gerek kalmadı.
 - ✅ **Çoklu kalite işleyici (360p - 4k)**  
 - ✅ **Çoklu video işleme ve sıra sistemi**  
 - ✅ **HLS dönüştürücü (eklenen videoları m3u8 formatına dönüştürür.)**  
 - ✅ **Videonun içerisine istediğiniz alana logo ekleyebilme**  
 - ✅ **Eklemek istediğiniz logoyu yazı - resim olarak seçebilme ve yazının bütün font ayarlarını özgürce kullanabilme**  
 - ✅ **Eklediğiniz videonun thumbnail'i playerin dışında kalır (önizleme) ve eklediğimiz filigran burada da belirebilir**  
-- ✅ **İstediğiniz dilde birden çok altyazı ekleyebilme**  
+- ✅ **İstediğiniz dilde birden çok altyazı ekleyebilme (FFmpeg ile videoya gömülür.)**  
 - ✅ **Kullanıcı ekleme ve profil yönetimi**  
-
+- ✅ **Dual sistemi entegre edildi, direkt olarak sesler arası geçiş yapılabiliyor.**  
 ---
 
 ## 🔹 Eklenecek Özellikler  
-- ⭐ **Dual sistemi**  
 - ⭐ **CDN desteği**  
 - ⭐ **İzin verilen siteler**  
 - ⭐ **iframe şifreleme**  
